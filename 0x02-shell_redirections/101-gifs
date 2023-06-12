@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -mindepth 1 -type f -name "*.gif" | sort -f | cut -f 1 -d '.' && echo
+find . -mindepth 1 -type f -name "*.gif" | sort -f | cut -f 1 -d '.'
